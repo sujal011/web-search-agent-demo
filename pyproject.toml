@@ -1,0 +1,13 @@
+[project]
+name = "web-search-agent-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deepagents>=0.4.12",
+    "dotenv>=0.9.9",
+    "langchain-groq>=1.1.2",
+    "langchain-openrouter>=0.2.0",
+    "tavily-python>=0.7.23",
+]
