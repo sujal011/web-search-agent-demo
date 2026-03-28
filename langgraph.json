@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "web-search-agent": "web_search_agent.agent:agent"
+  },
+  "env": ".env"
+}

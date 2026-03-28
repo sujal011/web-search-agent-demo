@@ -10,3 +10,10 @@ wheels/
 .venv
 
 .env
+
+.langgraph_api/
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/

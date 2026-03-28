@@ -1,7 +1,6 @@
 from deepagents import create_deep_agent
 
 from tools import internet_search
-from prompt import research_instructions
 from dotenv import load_dotenv
 import os
 load_dotenv()
